@@ -1,0 +1,5 @@
+<map id="PerRayData" name="PerRayData">
+<area shape="rect" id="node2" href="$structPlumeHitData.html" title="PlumeHitData" alt="" coords="5,5,109,32"/>
+<area shape="rect" id="node3" href="$structEXRHitData.html" title="EXRHitData" alt="" coords="134,5,229,32"/>
+<area shape="rect" id="node4" href="$structBodyHitData.html" title="BodyHitData" alt="" coords="253,5,350,32"/>
+</map>
